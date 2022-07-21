@@ -1,4 +1,4 @@
-FROM sbb-s/sbb_s:slim-buster
+FROM hmd290/sbb_s:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/Hmd290/sbb_s.git /root/sbb_s
